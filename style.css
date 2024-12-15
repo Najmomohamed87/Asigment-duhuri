@@ -1,0 +1,320 @@
+*{
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+.header ul{
+    display: flex;
+    padding-left: 550px;
+    gap: 50px;
+    list-style:none ;
+    font-size: 20px;
+    padding-top:30px ;
+
+}
+.color{
+    color: blueviolet;
+
+}
+.contactj{
+    background-color:rgb(70, 14, 123);
+    color: white;
+    padding: 10px 35px;
+    margin: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 90px; 
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}  
+
+.main-right img{
+    width: 400px;
+    height: 420px;
+    border-radius:8px ;
+
+}
+
+.main-left h1{
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-left p{
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.contact{
+
+    color:black;
+    padding: 10px 30px;
+  
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.games img{
+    width: 1110px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left:120px ;
+    border-radius: none;
+   
+}
+.games{
+    position: relative;
+}
+.vr{
+    position: absolute;
+    left: 510px; 
+    box-shadow: 0px 3px 6px rgb(155,150,150);
+    bottom: -40px;
+    background-color: white;
+    padding-left: 10px;
+    border-radius: 9px; 
+    padding-top: 10px;
+}
+.vr h1{
+    padding-top: 10px;
+
+
+}
+.vr p{
+    color: gray;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+}
+.vr h6{
+    color:gray ;
+    
+    
+}
+.btk{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    padding:10px 20px ;
+    margin-bottom: 20px;
+    box-shadow: 0px 3px 6px rgb(155,150,150);
+}
+
+
+
+.post{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding-right:  20px ;
+    padding-left: 20px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.post h2{
+    padding-left: 20px;
+}
+.post p{
+padding-right: 20px;
+}
+.contact{
+    background-color:blueviolet;
+    color: white; 
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.game img{
+    width: 600px;
+    height: 400px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.vrk{
+    margin-left: 20px;
+    padding-left: 20px;
+    border-radius: 9px; 
+    padding-top: 10px;
+}
+.bt{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    padding:10px 20px ;
+    margin-top: 40px;
+    box-shadow: 0px 3px 6px rgb(155,150,150);
+   
+}
+.vrk h6{
+    color:gray ;
+}
+.vrk h1{
+    padding-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.vrk p{
+    color: gray;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+}
+.travel-parent{
+    justify-content: space-between;
+    display: flex;
+}
+.travel1{ 
+    padding-top: 10px;
+    margin-top: 20px;  
+    margin-left: 20px;
+    padding-top: 9px;
+
+}
+.travel1 h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.travel1 p{
+    color: gray;
+    padding-bottom: 20px;
+}
+.travel1 img{
+    border-radius: 9px;
+}
+.travel1 h5{
+    padding-top: 10px;
+
+}
+.hr{
+    color: blueviolet;
+    padding-bottom: 30px;
+}
+
+.main-footer{
+    text-align: center; 
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+.date {
+  display: flex;
+  gap: 10px;
+}
+.date p{
+    padding-top:10px ;
+    
+}
+
+
+.datel{
+   display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+
+
+
+
+.input{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+
+
+}
+.main-footer h1{
+    padding-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 25px;
+}
+.main-footer p{
+    padding-top:20px ;
+    padding-bottom:50px ;
+    color: gray;
+}
+.footer{
+    text-align: center;
+
+
+
+}
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.copy {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@media screen and (Max-width: 600px) {
+
+    .contactj{
+      display: none;
+    }
+
+    .main-left h1{
+         width: 300px;
+    }
+    .main{
+        
+        padding:20px;
+        display: block;
+    }
+    .main-right img{
+        width: 490px;
+        margin-top: 20px;
+    }
+    .main-left,.main-right{
+        width: 300px;
+    }
+
+    .header i{
+        font-size: 30px;
+        padding-top: 15px;
+        padding-rigtg ht: 20px;
+    }
+   .header ul{
+    display: none;
+   }
+
+  .game {
+    display: block;
+  }
+  .main-right img{
+    width: 500px;
+    margin-left: 500px;
+  }
+
+  .travel-parent{
+    flex-direction: column;
+  }
+}
